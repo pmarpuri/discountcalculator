@@ -17,7 +17,7 @@ Before running the application, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/pmarpuri/discountcalculator
-    cd discount-calculator
+    cd discountcalculator
     ```
 
 2. **Build the Project:**
