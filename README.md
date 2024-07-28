@@ -56,9 +56,9 @@ Before running the application, ensure you have the following installed:
 
 2. **View Coverage Report:**
 
-    The coverage report is generated in the `target/site/jacoco` directory. enter the below command to view the report
- 
-    start "" "target/site/jacoco/index.html" in a web browser to view the report.
-    
+    The coverage report is generated in the `target/site/jacoco` directory. enter the below command to view the report in a web browser.
+   ```
+    start "" "target/site/jacoco/index.html" 
+    ```
 ## UML Class Diagram
 	UML class diagram can be found at the \src\main\resources\templates\UML_class_diagram.png
